@@ -1,5 +1,4 @@
 local PLUGIN = PLUGIN
-
 PLUGIN.name = "Médicale"
 PLUGIN.author = "Scott Crane"
 PLUGIN.desc = "Ajoute un systéme médicale.."

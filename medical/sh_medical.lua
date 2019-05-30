@@ -1,3 +1,4 @@
+local PLUGIN = PLUGIN
 local MedicalEnums = {}
 MedicalEnums[1] = "Tête"
 MedicalEnums[2] = "Torse"
